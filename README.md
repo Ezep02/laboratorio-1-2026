@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Ezequiel P (174232) - epe...@gmail.com
+- Augusto C  (174223) - car...@gmail.com
 
 # Contexto / Escenario
 
