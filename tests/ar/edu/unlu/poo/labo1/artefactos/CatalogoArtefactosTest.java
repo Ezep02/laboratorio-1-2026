@@ -101,4 +101,6 @@ class CatalogoArtefactosTest {
     assertEquals(a1, a2, "Dos artefactos con el mismo nombre deben ser iguales.");
     assertEquals(a1.hashCode(), a2.hashCode(), "Los hashCodes deben ser iguales si los objetos son iguales.");
   }
+
+
 }
